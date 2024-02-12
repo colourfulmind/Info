@@ -1,0 +1,11 @@
+id,checking_peer,checked_peer,points_amount
+1,pagelawr,bernersl,1
+2,pagelawr,bernersl,1
+3,bernersl,pagelawr,1
+4,pagelawr,bernersl,1
+5,thompson,torvalds,1
+6,thompson,torvalds,1
+7,thompson,torvalds,1
+8,hejlsber,ritchied,1
+9,torvalds,hejlsber,1
+10,torvalds,hejlsber,1
